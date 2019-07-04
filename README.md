@@ -16,7 +16,7 @@ This sample shows how to use Spring Data JPA module with different Azure Databas
 - [Build and Package](#build-and-package)
 - [Run](#run)
 
-## Prerequisite
+## Prerequisites
 
 - Azure Account
 - JDK 1.8 or above
