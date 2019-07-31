@@ -1,10 +1,11 @@
 ---
-topic: sample
+page_type: sample
 description: This sample shows how to use Spring Data JPA module with different Azure Database services.
 languages:
 - java
 products:
 - azure
+urlFragment: spring-jpa-azure
 ---
 
 # Spring Data JPA on Azure
